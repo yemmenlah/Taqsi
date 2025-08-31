@@ -17,7 +17,7 @@ Taqsi is a simple and elegant **Flutter weather application** that provides real
 
 ## 📸 Screenshots  
 <p align="center">
-  <img src="assets\screenshots\Splash_screen.jpg" alt="Splash Screen" width="250"/>
+  <img src="taqsi\assets\screenshots\Splash_screen.jpg" alt="Splash Screen" width="250"/>
   <img src="assets\screenshots\Home.jpg" alt="Home Screen" width="250"/>
   <img src="assets\screenshots\Search.jpg" alt="Search Screen" width="250"/>
   <img src="assets\screenshots\Settings.jpg" alt="Setting Screen" width="250"/>
