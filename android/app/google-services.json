@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416611905992",
+    "project_id": "taqsi-3cc7f",
+    "storage_bucket": "taqsi-3cc7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416611905992:android:83a16180500a06081d10fd",
+        "android_client_info": {
+          "package_name": "com.example.taqsi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBihk6ju__S6BfdcOSAiTOaMNDIXLFqeYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
